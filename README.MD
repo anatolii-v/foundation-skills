@@ -9,7 +9,7 @@ to production release and post-release monitoring.
 
 - **Functional Testing:** Smoke, Sanity, Regression, UAT (User Acceptance Testing)
 
-- **End-to-End Testing across all layers:** UI Testing · API Testing · Database Testing 
+- **E2E Testing across all layers:** UI Testing · API Testing · Database Testing 
 
 - **Test Documentation:**  Test Plans, Test Cases, Checklists, Bug Reports
 
